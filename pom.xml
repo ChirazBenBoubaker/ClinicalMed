@@ -43,8 +43,6 @@
         <profile.api-docs />
         <profile.tls />
         <profile.e2e />
-        <sonar.organization>chirazbenboubaker-1</sonar.organization>
-
         <!-- Dependency versions -->
         <jhipster-dependencies.version>7.9.3</jhipster-dependencies.version>
         <!-- The spring-boot version should match the one managed by
@@ -91,7 +89,7 @@
         <openapi-generator-maven-plugin.version>6.0.1</openapi-generator-maven-plugin.version>
         <properties-maven-plugin.version>1.1.0</properties-maven-plugin.version>
         <sonar-maven-plugin.version>3.9.1.2184</sonar-maven-plugin.version>
-
+        <sonar.organization>chirazbenboubaker-1</sonar.organization>
         <!-- jhipster-needle-maven-property -->
     </properties>
 
